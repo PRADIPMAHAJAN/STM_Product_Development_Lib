@@ -1,0 +1,6 @@
+../Src/Drivers/gpioDriver.c:12:6:InitGpioOutputPort	1
+../Src/Drivers/gpioDriver.c:19:6:GpioOutputBlink	3
+../Src/Drivers/gpioDriver.c:27:6:GpioOutputHigh	1
+../Src/Drivers/gpioDriver.c:32:6:GpioOutputLow	1
+../Src/Drivers/gpioDriver.c:39:6:InitGpioInputPort	1
+../Src/Drivers/gpioDriver.c:46:9:GpioInputHigh	2
