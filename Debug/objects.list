@@ -1,4 +1,5 @@
-"./Src/Drivers/gpioDriver.o"
+"./Src/Drivers/GPIO/gpioDriver.o"
+"./Src/Drivers/Uart/uart.o"
 "./Src/main.o"
 "./Src/syscalls.o"
 "./Src/sysmem.o"

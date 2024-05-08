@@ -1,0 +1,9 @@
+../Src/Drivers/Uart/uart.c:10:5:__io_putchar	16	static
+../Src/Drivers/Uart/uart.c:16:6:Uart2TXInit	16	static
+../Src/Drivers/Uart/uart.c:46:6:uart2RXInit	16	static
+../Src/Drivers/Uart/uart.c:87:6:Uart2ReadChar	4	static
+../Src/Drivers/Uart/uart.c:96:7:Uart2ReadString	24	static
+../Src/Drivers/Uart/uart.c:132:6:Uart2WriteChar	16	static
+../Src/Drivers/Uart/uart.c:141:6:Uart2WriteString	16	static
+../Src/Drivers/Uart/uart.c:154:13:uart_set_baudrate	24	static
+../Src/Drivers/Uart/uart.c:159:17:compute_uart_bd	16	static

@@ -1,0 +1,9 @@
+../Src/Drivers/Uart/uart.c:10:5:__io_putchar	1
+../Src/Drivers/Uart/uart.c:16:6:Uart2TXInit	1
+../Src/Drivers/Uart/uart.c:46:6:uart2RXInit	1
+../Src/Drivers/Uart/uart.c:87:6:Uart2ReadChar	2
+../Src/Drivers/Uart/uart.c:96:7:Uart2ReadString	6
+../Src/Drivers/Uart/uart.c:132:6:Uart2WriteChar	2
+../Src/Drivers/Uart/uart.c:141:6:Uart2WriteString	3
+../Src/Drivers/Uart/uart.c:154:13:uart_set_baudrate	1
+../Src/Drivers/Uart/uart.c:159:17:compute_uart_bd	1

@@ -1,6 +1,0 @@
-../Src/Drivers/gpioDriver.c:12:6:InitGpioOutputPort	16	static
-../Src/Drivers/gpioDriver.c:19:6:GpioOutputBlink	24	static
-../Src/Drivers/gpioDriver.c:27:6:GpioOutputHigh	16	static
-../Src/Drivers/gpioDriver.c:32:6:GpioOutputLow	16	static
-../Src/Drivers/gpioDriver.c:39:6:InitGpioInputPort	16	static
-../Src/Drivers/gpioDriver.c:46:9:GpioInputHigh	16	static
